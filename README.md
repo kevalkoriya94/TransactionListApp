@@ -29,4 +29,4 @@ This app securely authenticates users, fetches transactions from an API, and dis
 
 1. **Clone the repo**:
    ```bash
-   git clone https://github.com/your-username/secure-transactions-app.git
+   git clone https://github.com/kevalkoriya94/TransactionListApp.git
